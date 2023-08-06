@@ -29,17 +29,16 @@ ul {
 li {
   list-style-position: outside;
   padding: 5px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 24px;
   line-height: 1.66;
   padding: 20px 0;
 }
 
 button {
-  font-size: 20px;
   padding: 10px;
   margin: 0 5px;
   width: 100px;
@@ -51,10 +50,8 @@ button {
 }
 
 button:hover {
-  background-color: chartreuse;
   box-shadow: 1px 1px 7px grey inset;
-color: rgb(255, 56, 1);
-font-weight: 700;
+color: rgb(223, 41, 9);
 }
 
 .buttonList {
